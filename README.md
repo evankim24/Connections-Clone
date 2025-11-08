@@ -12,3 +12,6 @@ Keybinds:
 [S] -> Shuffle Board,
 [Esc] -> Clear Board,
 [Enter] -> Submit Group
+
+# How to Run
+You can run the game by having the main class be tester.Main and the program arguments be set to ExamplesConnections
