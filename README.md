@@ -7,8 +7,8 @@ You win if you correctly guess all four groups in fewer than four tries. If you 
 many tries it took. If you lose, it will display a loss message.
 
 Keybinds:
-[Left-Click] -> Select Words
-[D] -> Deselect Selected Words
-[S] -> Shuffle Board
-[Esc] -> Clear Board
+[Left-Click] -> Select Words,
+[D] -> Deselect Selected Words,
+[S] -> Shuffle Board,
+[Esc] -> Clear Board,
 [Enter] -> Submit Group
